@@ -2,15 +2,15 @@
 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Nikolayf11/nb_data_science/edit/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем](https://github.com/Nikolayf11/nb_data_science/edit/main/README.md#Какой-кейс-решаем?)
 
-[3. Условие для обработки данных](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Условие-соревнования)
+[3. Условие для обработки данных](https://github.com/Nikolayf11/nb_data_science/edit/main/README.md#Условие-соревнования)
 
-[4. Метрика качества](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Метрика-качества)
+[4. Метрика качества](https://github.com/Nikolayf11/nb_data_science/edit/main/README.md#Метрика-качества)
 
-[5. Результат](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Результат)
+[5. Результат](https://github.com/Nikolayf11/nb_data_science/edit/main/README.md#Результат)
 
 ### Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. В проекте проведена работ над данными, которые необходимо преобразовать, исследовать и очистить.
