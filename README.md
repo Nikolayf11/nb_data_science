@@ -6,7 +6,7 @@
 
 [2. Какой кейс решаем](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Какой-кейс-решаем?)
 
-[3. Условие соревнования](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Условие-соревнования)
+[3. Условие для обработки данных](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Условие-соревнования)
 
 [4. Метрика качества](https://github.com/Nikolayf11/nikolas/tree/main/project_1/README.md#Метрика-качества)
 
